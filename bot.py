@@ -5,7 +5,7 @@ from telebot import types
 dbfile = 'mydictionary.tsv'
 
 # token and url for bot
-TOKEN = "731839567:AAEEWfeYriNNDRNRmw9h3wOVKBa2IBJ-Fuw"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # start of real code
